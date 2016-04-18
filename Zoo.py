@@ -13,7 +13,7 @@ def main ():
     char6 = input ('\nSixth Character of Plate: ')
     time.sleep(60)
     char7 = input ('\nSeventh Character of Plate: ')
-    time.sleep(120)
+    time.sleep(30)
     print("It is at the limo company") 
 
 main () 
